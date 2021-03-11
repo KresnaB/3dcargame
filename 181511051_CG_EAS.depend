@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1613633057 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\main.cpp
+	"game.h"
+
+1612271444 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\bmploader.cpp
+	"BmpLoader.h"
+	<stdio.h>
+	<iostream>
+
+1612271436 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\bmploader.h
+	<windows.h>
+
+1613407282 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\model.cpp
+
+1613406586 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\model.h
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<math.h>
+	"BmpLoader.h"
+	<iostream>
+
+1613628382 source:c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\game.cpp
+	"game.h"
+
+1613628613 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\game.h
+	<stdlib.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<math.h>
+	<ode/ode.h>
+	"BmpLoader.h"
+	<iostream>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\ode.h
+	<ode/odeconfig.h>
+	<ode/compatibility.h>
+	<ode/common.h>
+	<ode/odeinit.h>
+	<ode/contact.h>
+	<ode/error.h>
+	<ode/memory.h>
+	<ode/odemath.h>
+	<ode/matrix.h>
+	<ode/matrix_coop.h>
+	<ode/timer.h>
+	<ode/rotation.h>
+	<ode/mass.h>
+	<ode/misc.h>
+	<ode/objects.h>
+	<ode/collision_space.h>
+	<ode/collision.h>
+	<ode/threading.h>
+	<ode/threading_impl.h>
+	<ode/cooperative.h>
+	<ode/export-dif.h>
+	<ode/version.h>
+	<ode/odecpp.h>
+	<ode/odecpp_collision.h>
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odeconfig.h
+	<stddef.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<string.h>
+	<float.h>
+	<ode/precision.h>
+	<stdint.h>
+
+1613470956 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\precision.h
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\compatibility.h
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\common.h
+	<ode/odeconfig.h>
+	<ode/error.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\error.h
+	<ode/odeconfig.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odeinit.h
+	<ode/common.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\contact.h
+	<ode/common.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\memory.h
+	<ode/odeconfig.h>
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odemath.h
+	<ode/common.h>
+	<ode/odemath_legacy.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odemath_legacy.h
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\matrix.h
+	<ode/common.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\matrix_coop.h
+	<ode/common.h>
+	<ode/cooperative.h>
+	<ode/threading.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\cooperative.h
+	<ode/common.h>
+	<ode/threading.h>
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\threading.h
+	<ode/odeconfig.h>
+	<time.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\timer.h
+	<ode/odeconfig.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\rotation.h
+	<ode/common.h>
+	<ode/compatibility.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\mass.h
+	<ode/common.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\misc.h
+	<ode/common.h>
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\objects.h
+	<ode/common.h>
+	<ode/mass.h>
+	<ode/contact.h>
+	<ode/threading.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\collision_space.h
+	<ode/common.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\collision.h
+	<ode/common.h>
+	<ode/collision_space.h>
+	<ode/contact.h>
+	"collision_trimesh.h"
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\collision_trimesh.h
+
+1596115656 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\threading_impl.h
+	<ode/odeconfig.h>
+	<ode/threading.h>
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\export-dif.h
+	<ode/common.h>
+
+1613470956 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\version.h
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odecpp.h
+
+1596115608 c:\users\kresna\downloads\sm5\cg\181511051_cg_eas\ode\include\ode\odecpp_collision.h
+
