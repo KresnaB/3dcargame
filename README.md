@@ -1,2 +1,2 @@
 # 3dcargame
-simple 3D car game with collision detection using freeglut/opengl
+simple 3D car game with collision detection created using freeglut/opengl
